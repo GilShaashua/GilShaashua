@@ -1,7 +1,7 @@
 <h1> Hi there 👋 I'm Gil Shaashua </h1>
 
 <p> 
-  Fullstack | Frontend developer from Petah Tiwqah, Israel.
+  Fullstack | Frontend developer from Petah Tiwqah, Israel. <br>
   Graduate of the Coding Academy - an intensive coding bootcamp (640hours) that qualifies Fullstack developers.
 </p>
 
