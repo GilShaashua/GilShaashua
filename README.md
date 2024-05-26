@@ -1,5 +1,21 @@
 ## Hi there 👋 I'm Gil Shaashua
 
+Fullstack | Frontend developer from Petah Tiwqah, Israel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **GilShaashua/GilShaashua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
