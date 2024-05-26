@@ -3,8 +3,8 @@
 Fullstack | Frontend developer from Petah Tiwqah, Israel.
 
 ### My Skills -
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-"/>
+
+![image]({https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white})
 
 
 
