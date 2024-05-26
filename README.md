@@ -2,6 +2,8 @@
 
 Fullstack | Frontend developer from Petah Tiwqah, Israel.
 
+## My Skills -
+
 
 
 
