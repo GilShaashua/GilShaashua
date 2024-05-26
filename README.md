@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gil Shaashua
+<h1>Hi there 👋 I'm Gil Shaashua</h1>
 
 Fullstack | Frontend developer from Petah Tiwqah, Israel.
 
