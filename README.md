@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Gil Shaashua</h1>
+<p>Fullstack | Frontend developer from Petah Tiwqah, Israel.</p>
 
-Fullstack | Frontend developer from Petah Tiwqah, Israel.
 
 ### My Skills -
 
