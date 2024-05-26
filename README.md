@@ -1,10 +1,10 @@
-<h1>Hi there 👋 I'm Gil Shaashua</h1>
-<p>Fullstack | Frontend developer from Petah Tiwqah, Israel.</p>
+<h1> Hi there 👋 I'm Gil Shaashua </h1>
+<p> Fullstack | Frontend developer from Petah Tiwqah, Israel. </p>
 
 
 ### My Skills -
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
